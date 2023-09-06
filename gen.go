@@ -14,7 +14,7 @@ import (
 
 const MaxLength = 8192
 
-const ByteArrayMaxLen = 20 << 20
+const ByteArrayMaxLen = 50 << 20
 
 const MaxLenTag = "maxlen"
 const NoUsrMaxLen = -1
